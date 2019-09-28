@@ -13,5 +13,5 @@ Gabriel Familiar Amorim da Silva 17/0069273
 ## Resultados Esperados
 <p>O resultado esperado será o acumulo de corpos no centro do vórtice, com alguns deles afundando para a base do pote, local de origem do vórtice.<p/>
 
-![Vortex na Garrafa](/Imagens/Vortex.png)
+![Vortex na Garrafa](/Imagens/Vortice.png)
 
